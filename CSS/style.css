@@ -1,0 +1,45 @@
+/* p.error{
+    color: red;
+}
+p.success{
+    color: green;
+}
+p.success.feedback{
+    border: 1px dashed green;
+
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+/* div .error{
+    color: red;
+
+} */
+
+/* a[href*="instagram"]{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href$=".com"]{
+    color: white;
+    background-color: red;
+    border: 2px solid blue;
+} */
+div{
+    color: coral;
+    border: 1px solid grey;
+    margin: 30px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p{
+    color: orange;
+}
